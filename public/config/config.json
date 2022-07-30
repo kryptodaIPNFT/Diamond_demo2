@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x06D0449220EbeABb27E2f2fD5d510cB79Bd0fCF4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x06D0449220EbeABb27E2f2fD5d510cB79Bd0fCF4",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "DiamondsV4",
+  "SYMBOL": "DmD",
+  "MAX_SUPPLY": 48,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/diamondsv4",
+  "SHOW_BACKGROUND": true
+}
